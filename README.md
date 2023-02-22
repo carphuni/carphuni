@@ -9,7 +9,7 @@
   # **이동훈 ( Lee DongHun )**
   
   <img src="./images/이동훈.jpg" style="width:10rem;"/>
-  
+
   ### **📧Email**
   gnsl2808@naver.com
   ### 🖇️Github
@@ -17,10 +17,6 @@
   ### 📷Instargram
   https://www.instagram.com/mingizuk_dongdong/
 
-</div>
-<br>
-
-<div align=center>
   <h1>🛠️ Stacks 🛠️</h1>
 
   ### **✨Font**
@@ -48,8 +44,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-
-<div align=center><h1>👨‍💻 Project 👨‍💻</h1></div>
+<h1>👨‍💻 Project 👨‍💻</h1>
 
 [프로젝트](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
 
