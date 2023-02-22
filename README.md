@@ -47,7 +47,6 @@
 <h1>👨‍💻 Project 👨‍💻</h1>
 
 [![텍스트](./images/프로필기본이미지.jpg)](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
-
 [![텍스트](./images/프로필기본이미지.jpg)](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
 
 
