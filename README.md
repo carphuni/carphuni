@@ -48,6 +48,8 @@
 
 [![텍스트](./images/프로필기본이미지.jpg)](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
 
+[![텍스트](./images/프로필기본이미지.jpg)](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
+
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=26&fontAlignY=40&color=0c70f2&fontColor=fff&section=footer)
 
