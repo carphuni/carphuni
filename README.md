@@ -46,18 +46,12 @@
 
 <h1>👨‍💻 Project 👨‍💻</h1>
 
-<div style="display:flex;">
-  <div>
-    <a href="https://github.com/carphuni/HappyDogHappyCat/tree/dev" style="margin-right:10px">
-      <img src="./images/프로필기본이미지.jpg" width="400" height="300"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/carphuni/HappyDogHappyCat/tree/dev">
-      <img src="./images/프로필기본이미지.jpg" width="400" height="300"/>
-    </a>
-  </div>
-</div>
+<a href="https://github.com/carphuni/Gamgak" style="margin-right:10px">
+  <img src="./images/프로필기본이미지.jpg" width="400" height="300"/>
+<a>
+<a href="https://github.com/carphuni/HappyDogHappyCat/tree/dev">
+  <img src="./images/프로필기본이미지.jpg" width="400" height="300"/>
+<a>
 
 
 
