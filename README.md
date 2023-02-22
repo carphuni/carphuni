@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=26&fontAlignY=40&color=b8f8fb&fontColor=fff)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=26&fontAlignY=40&color=0c70f2&fontColor=fff)
 
 <div style="display: flex; justify-content: center;">
   <div style="text-align: left;">
@@ -138,3 +138,5 @@
 <div align=center><h1>👨‍💻 Project 👨‍💻</h1></div>
 
 [프로젝트](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=26&fontAlignY=40&color=0c70f2&fontColor=fff&section=footer)
