@@ -42,10 +42,13 @@
 
   ### 🎥**Version**
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
+
 
 <h1>👨‍💻 Project 👨‍💻</h1>
 
-[프로젝트](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
+[![텍스트](./images/프로필기본이미지.jpg)](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
+
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=26&fontAlignY=40&color=0c70f2&fontColor=fff&section=footer)
+
+</div>
