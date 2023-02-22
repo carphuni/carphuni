@@ -46,8 +46,13 @@
 
 <h1>👨‍💻 Project 👨‍💻</h1>
 
-[![텍스트](./images/프로필기본이미지.jpg)](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
-[![텍스트](./images/프로필기본이미지.jpg)](https://github.com/carphuni/HappyDogHappyCat/tree/dev)
+<a href="https://github.com/carphuni/HappyDogHappyCat/tree/dev" style="margin-right:10px"><img src="./images/프로필기본이미지.jpg" width="100"/><a>
+<a href="https://github.com/carphuni/HappyDogHappyCat/tree/dev"><img src="./images/프로필기본이미지.jpg" width="100"/><a>
+
+
+
+
+
 
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=26&fontAlignY=40&color=0c70f2&fontColor=fff&section=footer)
