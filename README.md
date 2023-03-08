@@ -47,10 +47,10 @@
 <h1>👨‍💻 Project 👨‍💻</h1>
 
 <a href="https://github.com/carphuni/GDJ56_Final_Gamgak" style="margin-right:10px">
-  <img src="./images/Gamgak.png" width="400"/>
+  <img src="./images/Gamgak.png" width="400" style="border:1px solid gray"/>
 <a>
 <a href="https://github.com/carphuni/HappyDogHappyCat">
-  <img src="./images/HappyDogHappyCat.png" width="400"/>
+  <img src="./images/HappyDogHappyCat.png" width="400" style="border:1px solid gray"/>
 <a>
 
 
